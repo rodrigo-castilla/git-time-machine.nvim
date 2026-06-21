@@ -21,7 +21,7 @@ A lightweight, asynchronous git time-machine plugin for Neovim powered by Snacks
 
 ```lua
 {
-    "rodrigo-castilla/time-machine.nvim",
+    "rodrigo-castilla/git-time-machine.nvim",
     dependencies = { "folke/snacks.nvim" },
     opts = {
         shortcut = "<leader>gt", -- Keymap to trigger the time-machine picker
